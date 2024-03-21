@@ -1,0 +1,58 @@
+export const childactivity1 = [
+    {
+      id: 1,
+      img: "/img/wwk/activity1.jpg",
+      title: "Advanture",
+      Participated: "147,681",
+      delayAnimation: "0",
+    },
+    {
+      id: 2,
+      img: "/img/wwk/activity2.jpg",
+      title: "Sow A Seed",
+      Participated: "147,681",
+      delayAnimation: "100",
+    },
+    {
+      id: 3,
+      img: "/img/wwk/safari.jpg",
+      title: "Jungle Safari",
+      Participated: "147,681",
+      delayAnimation: "200",
+    },
+    {
+      id: 4,
+      img: "/img/wwk/climb.jpg",
+      title: "Play Ground",
+      Participated: "147,681",
+      delayAnimation: "300",
+    },
+    {
+      id: 5,
+      img: "/img/wwk/a&c.jpg",
+      title: "Arts & Crafts",
+      Participated: "147,681",
+      delayAnimation: "400",
+    },
+    {
+      id: 6,
+      img: "/img/destinations/1/1.png",
+      title: "United Kingdom",
+      Participated: "147,681",
+      delayAnimation: "500",
+    },
+    {
+      id: 7,
+      img: "/img/destinations/1/2.png",
+      title: "Italy",
+      Participated: "147,681",
+      delayAnimation: "600",
+    },
+    {
+      id: 8,
+      img: "/img/destinations/1/3.png",
+      title: "France",
+      Participated: "147,681",
+      delayAnimation: "700",
+    },
+  ];
